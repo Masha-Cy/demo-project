@@ -1,4 +1,4 @@
-package com.cydeo.steps;
+package cydeo.steps;
 
 
 import cydeo.pages.PracticePage;
@@ -9,6 +9,9 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
+import org.openqa.selenium.JavascriptExecutor;
+
+import java.util.Map;
 
 public class StepDefs {
     PracticePage practicePage=new PracticePage();

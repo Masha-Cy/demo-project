@@ -1,5 +1,6 @@
-package com.cydeo.pages;
+package cydeo.pages;
 
+import cydeo.utilities.ConfigurationReader;
 import cydeo.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

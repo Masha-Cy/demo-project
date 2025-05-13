@@ -1,4 +1,4 @@
-package com.cydeo.utilities;
+package cydeo.utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

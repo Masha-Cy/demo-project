@@ -1,4 +1,4 @@
-package com.cydeo.steps;
+package cydeo.steps;
 
 import cydeo.utilities.BrowserUtils;
 import cydeo.utilities.Driver;
