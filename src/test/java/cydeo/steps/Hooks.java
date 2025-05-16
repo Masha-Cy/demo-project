@@ -16,7 +16,7 @@ public class Hooks {
         System.out.println("--------- Before Method is Executed ---------");
     }
 
-///
+/////
 
     @After
     public void teardownMethod(Scenario scenario){
